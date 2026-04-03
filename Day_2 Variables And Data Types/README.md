@@ -1,4 +1,4 @@
-# Day 2 – Variables and Data Types (Python)
+# Variables and Data Types (Python)
 
 ## Overview
 
